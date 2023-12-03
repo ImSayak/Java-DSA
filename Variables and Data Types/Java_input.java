@@ -1,0 +1,18 @@
+import java.util.*;
+
+public class Java_input {
+    public static void main (String args[]) {
+        Scanner sc = new Scanner(System.in);
+        // String a = sc.next();
+        // System.out.println(a);
+
+        // String name = sc.nextLine();
+        // System.out.println(name);
+
+        // int number= sc.nextInt();
+        // System.out.println(number);
+
+        float price=sc.nextFloat();
+        System.out.println(price);
+    }
+}

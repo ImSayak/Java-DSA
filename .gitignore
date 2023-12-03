@@ -1,0 +1,12 @@
+# for image
+.jpg
+.jpeg
+.png
+.gif
+
+# for video
+.mp4
+.flv
+
+# for java class file
+.class
