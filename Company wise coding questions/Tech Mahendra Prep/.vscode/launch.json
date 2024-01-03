@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Helping_Manager",
+            "request": "launch",
+            "mainClass": "Helping_Manager",
+            "projectName": "Tech Mahendra Prep_96bd2d1a"
+        },
+        {
+            "type": "java",
+            "name": "decimal_to_binary",
+            "request": "launch",
+            "mainClass": "decimal_to_binary",
+            "projectName": "Tech Mahendra Prep_96bd2d1a"
+        },
+        {
+            "type": "java",
+            "name": "faceprep5",
+            "request": "launch",
+            "mainClass": "faceprep5",
+            "projectName": "Tech Mahendra Prep_96bd2d1a"
+        },
+        {
+            "type": "java",
+            "name": "ninja1",
+            "request": "launch",
+            "mainClass": "ninja1",
+            "projectName": "Tech Mahendra Prep_96bd2d1a"
+        },
+        {
+            "type": "java",
+            "name": "ninja3",
+            "request": "launch",
+            "mainClass": "ninja3",
+            "projectName": "Tech Mahendra Prep_96bd2d1a"
+        },
+        {
+            "type": "java",
+            "name": "prep1",
+            "request": "launch",
+            "mainClass": "prep1",
+            "projectName": "Tech Mahendra Prep_96bd2d1a"
+        },
+        {
+            "type": "java",
+            "name": "prep3",
+            "request": "launch",
+            "mainClass": "prep3",
+            "projectName": "Tech Mahendra Prep_96bd2d1a"
+        },
+        {
+            "type": "java",
+            "name": "prep4",
+            "request": "launch",
+            "mainClass": "prep4",
+            "projectName": "Tech Mahendra Prep_96bd2d1a"
+        }
+    ]
+}
