@@ -1,5 +1,5 @@
 public class Triplet_Sum {
-    public static triplateSum(int arr[] , int target){
+    public static void triplateSum(int arr[] , int target){
         
     }
 
