@@ -1,4 +1,4 @@
-public class Solution {
+public class BeautifulString {
         public static int makeBeautiful(String str) {
             char[] ch = str.toCharArray();
             int count = 0;
