@@ -55,7 +55,7 @@ public class prep6 {
             if(map.get(key)%2 != 0) return key;
         }
 
-        return '^';
+        return ' ';
     }
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
